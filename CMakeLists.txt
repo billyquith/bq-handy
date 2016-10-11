@@ -4,12 +4,11 @@
 
 cmake_minimum_required(VERSION 3.1)
 
-set(PROJECT_NAME bqhandy)
 set(BQHANDY_VERSION_MAJOR 0)
 set(BQHANDY_VERSION_MINOR 1)
 set(BQHANDY_VERSION_PATCH 0)
 
-project(bqhandy)
+project(handy)
 
 set(CMAKE_INSTALL_PREFIX ${PROJECT_SOURCE_DIR}/install)
 

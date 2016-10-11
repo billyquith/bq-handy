@@ -13,5 +13,5 @@ add_definitions(-std=c++11)
 
 add_executable(${APP_NAME} ${APP_SOURCES})
 
-target_link_libraries(${APP_NAME} bqhandy)
+target_link_libraries(${APP_NAME} handy)
 

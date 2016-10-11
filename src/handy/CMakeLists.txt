@@ -15,5 +15,5 @@ include_directories(${PROJECT_SOURCE_DIR}/src
 
 add_definitions(-std=c++11)
 
-add_library(bqhandy STATIC ${PROJECT_SOURCES})
+add_library(handy STATIC ${PROJECT_SOURCES})
 
